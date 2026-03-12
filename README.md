@@ -1,7 +1,11 @@
-# Web_Study Repository
+# Cat Photo App
 
-This repository is for my personal study.
-I am currently learning basic web development (HTML & CSS).
+This repository contains my practice project while learning basic web development.
 
-Still learning step by step 🙂
+## What I'm learning
+- HTML basics
+- CSS basics
+- Building simple web pages
 
+## Status
+Still learning step by step 😊
