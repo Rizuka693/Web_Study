@@ -3,7 +3,7 @@
 This repository contains my practice project while learning basic web development.
 
 ## What I'm learning
-- HTML basics　（Learn HTML by Building a Cat Photo App Instructions index.html）
+- HTML basics　（LEARN BASIC HTML）
 - CSS basics
 - Building simple web pages
 
