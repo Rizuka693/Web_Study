@@ -1,5 +1,3 @@
-# Cat Photo App
-
 This repository contains my practice project while learning basic web development.
 
 ## What I'm learning
